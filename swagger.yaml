@@ -1,0 +1,22 @@
+basePath: /cases/
+consumes:
+- query
+host: localhost
+info:
+  contact:
+    email: mayank.singh@gmail.com
+    name: Mayank
+  description: |-
+    the purpose of this application is to provide the data of
+    covid cases in a particular city
+
+
+    Documentation of cases api
+  title: cases API.
+  version: "1.1"
+paths: {}
+produces:
+- application/json
+schemes:
+- http
+swagger: "2.0"
